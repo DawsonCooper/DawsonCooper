@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawson Cooper
 - 👀 I’m interested in Web Development and Data Analytics 
-- 🌱 I’m currently learning SQLite3 and Python
+- 🌱 I’m currently learning React 
 - 📫 How to reach me dawsoncooper96@gmail.com
 
 <!---
