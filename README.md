@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawson Cooper
 - 👀 I’m interested in Web Development and Data Analytics 
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning React/Redux and ThreeJS
 - 📫 How to reach me dawsoncooper96@gmail.com
 
 <!---
