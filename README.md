@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawson Cooper
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning React/Redux
+- 🌱 I’m currently learning Node/Express/MongoDB
 - 📫 How to reach me dawsoncooper96@gmail.com
 
 <!---
