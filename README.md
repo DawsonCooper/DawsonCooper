@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dawson Cooper
 - 👀 I’m interested in Web Development and Machine Learning 
-- 🌱 I’m currently working with Node/Express/MongoDB
+- 🌱 I’m currently working with Node/Express/MongoDB/Python
 - 📫 How to reach me dawsoncooper96@gmail.com
 
 <!---
