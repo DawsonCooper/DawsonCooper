@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Dawson Cooper
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development and Machine Learning 
 - 🌱 I’m currently working with Node/Express/MongoDB
 - 📫 How to reach me dawsoncooper96@gmail.com
 
